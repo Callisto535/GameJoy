@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Hein Htet Zaw
+Copyright (c) 2026 Hein Htet Zaw (Rayy)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,98 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+THIRD-PARTY SOFTWARE LICENSES
+================================================================================
+
+This project bundles and uses the following third-party emulators and software,
+each with their own respective licenses:
+
+--------------------------------------------------------------------------------
+1. PPSSPP - PlayStation Portable Emulator
+--------------------------------------------------------------------------------
+License: GNU General Public License v2.0 or later (GPL-2.0-or-later)
+Website: https://www.ppsspp.org/
+Copyright: © 2012-2024 PPSSPP Project
+
+PPSSPP is licensed under GPL v2+. The full license text can be found at:
+https://github.com/hrydgard/ppsspp/blob/master/LICENSE.TXT
+
+--------------------------------------------------------------------------------
+2. mGBA - Game Boy Advance Emulator
+--------------------------------------------------------------------------------
+License: Mozilla Public License 2.0 (MPL-2.0)
+Website: https://mgba.io/
+Copyright: © 2013-2024 Jeffrey Pfau
+
+mGBA is licensed under the Mozilla Public License 2.0. Full license:
+https://github.com/mgba-emu/mgba/blob/master/LICENSE
+
+--------------------------------------------------------------------------------
+3. DeSmuME - Nintendo DS Emulator
+--------------------------------------------------------------------------------
+License: GNU General Public License v2 (GPL-2.0)
+Website: https://desmume.org/
+Copyright: © 2006-2024 DeSmuME Team
+
+DeSmuME is licensed under GPL v2. The full license text can be found at:
+https://github.com/TASEmulators/desmume/blob/master/license.txt
+
+--------------------------------------------------------------------------------
+4. Electron
+--------------------------------------------------------------------------------
+License: MIT License
+Website: https://www.electronjs.org/
+Copyright: © 2013-2024 GitHub Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+================================================================================
+IMPORTANT NOTES
+================================================================================
+
+1. The GameJoy launcher application itself is licensed under the MIT License.
+
+2. The bundled emulators (PPSSPP, mGBA, DeSmuME) retain their original 
+   licenses and are separate works.
+
+3. Users must comply with the terms of each emulator's license when using
+   this software.
+
+4. This software does not include any copyrighted game ROMs, BIOS files, or
+   other proprietary content.
+
+5. Users are responsible for ensuring they have legal rights to any ROM files
+   they use with these emulators.
+
+6. The bundled emulators are provided "as-is" under their respective licenses,
+   and the GameJoy project makes no warranties regarding their functionality.
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+This launcher is for use with legally obtained game backups only. The authors
+and contributors of GameJoy do not condone or encourage piracy in any form.
+
+Users must own physical copies of games or have legal rights to the ROM files
+they use with this software. It is the user's responsibility to ensure 
+compliance with all applicable copyright laws in their jurisdiction.
+
+The GameJoy launcher is provided as a convenience tool to manage and launch
+legally obtained game backups using existing open-source emulation software.
+
+================================================================================
